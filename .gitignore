@@ -8,7 +8,6 @@ __pycache__/
 /.tox
 /.venv
 /venv
-/.vscode
 /site
 /test_*.db
 /wagtail_localize/static/wagtail_localize/js/wagtail-localize.js
@@ -21,3 +20,7 @@ __pycache__/
 .DS_Store
 .ruff_cache
 .coverage.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
